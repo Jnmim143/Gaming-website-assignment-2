@@ -283,3 +283,13 @@ nav li a {
     margin-left: 200px;
     margin-top: 90px;
 }
+
+.images-2 {
+    margin-left: 200px;
+}
+
+#small-2 {
+    position: relative;
+    bottom: 300px;
+    left: 550px;
+}
