@@ -663,3 +663,29 @@ footer {
     padding-top: 7px;
     /* padding-bottom: 20px; */
 }
+
+@media screen and (max-width:576px) {
+
+    nav,
+    .img-1,
+    .section-title,
+
+    ul,
+    .banner,
+    .img-2,
+    .sec-1,
+    .card-sec,
+    .sec-4,
+    .part-3,
+    .relative,
+    .pink {
+
+        flex-direction: column;
+
+
+    }
+
+    .card-sec {
+        grid-template-columns: 1fr;
+    }
+}
