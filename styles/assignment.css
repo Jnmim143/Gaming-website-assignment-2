@@ -220,6 +220,7 @@ nav li a {
 .we {
     text-align: right;
 
+
     font-size: 48px;
 
     font-weight: 700;
@@ -231,11 +232,49 @@ nav li a {
 
 }
 
-/* .part-3 {
+.card-sec {
+    display: flex;
+
+    /* margin-right: 4px; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    margin-left: 280px;
+    margin-right: 240px;
+    gap: 24px;
+    margin-top: 50px;
+
+}
+
+/* .card-one {
+    margin-left: 240px;
+    margin-right: 24px;
+}
+
+.card-two {
+    margin-left: 0px;
+    margin-right: 2px;
+}
+
+.card-three {
+    margin-left: 0px;
+    margin-right: 24px;
+} */
+
+.card-para {
+    color: #534C64;
+
+    font-size: 20px;
+
+    font-weight: 500;
+    line-height: 30px;
+    /* 150% */
+}
+
+.part-3 {
     display: flex;
     margin-left: 140px;
     margin-right: 240px;
-} */
+}
 
 /* .part-3-1 {
     /* margin-right: 240px; */
